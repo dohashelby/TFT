@@ -1,0 +1,14 @@
+{
+  "capture_interval_seconds": 1,
+  "resolution": {
+    "width": 1920,
+    "height": 1080
+  },
+  "overlay": {
+    "width": 420,
+    "height": 680,
+    "x": 1480,
+    "y": 20,
+    "alpha": 0.88
+  }
+}
